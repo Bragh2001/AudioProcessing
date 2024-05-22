@@ -7,8 +7,8 @@ Reverbs are artficial reverberation algorithms that mimic the effect of a certai
 
 ### How to run the program
 - Open the program in PurrData
-- In the toolbar press "Media" and then "Media on"
-- Press the circle in the Play audio area
+- In the toolbar press "Media" and then "Audio on"
+- Press the circle in the square in the Play audio area
 - Open a audio wav file
 - Press 1
 - Make sure all the sliders in the program is not on 0
